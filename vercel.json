@@ -1,5 +1,6 @@
 {
-  "buildCommand": "",
-  "outputDirectory": ".",
-  "framework": null
+  "version": 2,
+  "routes": [
+    { "src": "/", "dest": "/Blackwolf_Portfolio_Showcase.html" }
+  ]
 }
